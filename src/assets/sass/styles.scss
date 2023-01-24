@@ -1,0 +1,23 @@
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+
+h1 {
+    color: blue;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.font {
+    font-style: italic;
+}
